@@ -9,3 +9,5 @@ You need to then copy one of the bin files in the compiler directory and rename 
 Then use the following command (modify the version of Autohotkey in the folder name) in your command prompt:
 
 "C:\AutoHotkey_1.1.34.02\Compiler\Ahk2Exe.exe" /in "Shortcuts.ahk"
+
+This will create an executable that does not require admin rights. You can run it and leave it running. All you key combos and templates will now work.
